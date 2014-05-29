@@ -1,3 +1,6 @@
+# Singleton module
+# This code is based on https://github.com/ruby/ruby/blob/trunk/lib/singleton.rb
+#
 # The Singleton module implements the Singleton pattern.
 #
 # == Usage
